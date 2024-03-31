@@ -6,7 +6,10 @@
 #### By joseph mburu
 
 ## Description
-the first file is a javascript file that we use to change the case of a letter from uppercase to lowercase and viceverser
+1.the first file is a javascript file that we use to change the case of a letter from uppercase to lowercase and viceverser
+2.the second file is called numbers.js that contains javascript code that generates a list of numbers
+3.the last javascriptfile is used to recognise and output primenumbers from an array of numbers
+
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
